@@ -1,1 +1,3 @@
-Just created and switched to new branch with switch-c
+this is some other branch
+I am in another branch
+I am in master branch
