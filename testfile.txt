@@ -1,3 +1,2 @@
 this is some other branch
-I am in another branch
 I am in master branch
